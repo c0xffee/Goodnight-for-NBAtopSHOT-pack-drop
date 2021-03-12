@@ -66,7 +66,9 @@ python goodnight.py
 
 🚸 NOTICE : 如果圖片視窗跳出時，遮蓋到所選區域內會觸發鈴聲 🚸
 
-🚸 NOTICE : 可以重新調整圖片視窗的位置及大小，關閉視窗後再次執行程式，之後圖片視窗跳出的位置將會是重新調整過後的 🚸
+🚸 NOTICE : 可以重新調整圖片視窗的位置及大小，關閉視窗後再次執行程式 🚸
+
+🚸 NOTICE : 之後圖片視窗跳出的位置將會是重新調整過後的 🚸
 
 
 ![](https://raw.githubusercontent.com/c0xffee/Goodnight-for-NBAtopSHOT-pack-drop/main/img/step_3.jpg)
