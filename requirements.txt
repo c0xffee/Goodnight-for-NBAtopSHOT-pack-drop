@@ -1,0 +1,4 @@
+screeninfo
+pyautogui
+pillow
+numpy
