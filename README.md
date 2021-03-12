@@ -4,7 +4,7 @@ Goodnight 😴💤💤💤
 * 好操作的圖形介面
 * 輕鬆選取，一鍵完成
 * 省下半夜排隊的焦慮及時間
-* 讓您一夜好眠，這是最重要的!
+* 讓您一夜好眠，這是最重要的 !
 
 HOW IT WORK? 🛠️
 -------------
@@ -15,15 +15,17 @@ HOW IT WORK? 🛠️
 
 LAZY BONES _(:3」∠)_
 -------------
-如果你很懶或不會使用Python或沒耐心，你還是可以使用Goodnight，請直接進以下 google drive 連結，並下載 Goodnight 打包好的 exe 執行檔，點兩下即可開始使用。
+如果你很懶或不會使用 Python 或沒耐心，你還是可以使用 Goodnight，請直接進以下 google drive 連結，下載 Goodnight.zip 解壓縮後，看到 Goodnight 打包好的 exe 執行檔，點兩下即可開始使用。
 
 如果您有使用過 Python 的經驗，請跳過此欄。
 
 🚸 NOTICE : 使用執行檔可能有未知的 BUG 🚸
 
-🚸 NOTICE : 本人並無在執行檔裡加入病毒，如有疑慮請使用以下 Goodnight.py 來執行，因 Goodnight.py 的程式碼是公開的 🚸
+🚸 NOTICE : 本人並無在執行檔裡加入病毒，如有疑慮請使用以下 Goodnight.py 來執行 🚸
 
-[https://drive.google.com/file/d/1AuWV9LQzgosPbcxvO85pMqSGOxxgfu1_/view?usp=sharing](https://drive.google.com/file/d/1AuWV9LQzgosPbcxvO85pMqSGOxxgfu1_/view?usp=sharing)
+🚸 NOTICE : 因 Goodnight.py 的程式碼是公開的 🚸
+
+[https://drive.google.com/file/d/1X7aV-38--DyYBb4p99Ml5KPZx5-hxr3R/view?usp=sharing](https://drive.google.com/file/d/1X7aV-38--DyYBb4p99Ml5KPZx5-hxr3R/view?usp=sharing)
 
 
 
@@ -83,8 +85,9 @@ python goodnight.py
 
 [https://www.nbatopshot.com/user/@messy](https://www.nbatopshot.com/user/@messy)
 
+只要按下 SEND AS GIFT 按鈕後，在欄位中輸入 messy 並按下確認後就可以囉!!!
+
 ![](https://raw.githubusercontent.com/c0xffee/Goodnight-for-NBAtopSHOT-pack-drop/main/img/Inkedsend_me_gift_LI.jpg)
 
-只要按下 SEND AS GIFT 按鈕後，在欄位中輸入 messy 並按下確認後就可以囉!!!
 
 
