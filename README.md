@@ -1,2 +1,2 @@
 # goodnight
-a nbatopshot pack drop checker
+a nbatopshot pack drop queue check helper
