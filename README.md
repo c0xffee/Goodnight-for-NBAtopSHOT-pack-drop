@@ -1,4 +1,4 @@
-Goodnight
+Goodnight 😴💤💤💤
 =======
 一個可以在 NBAtopSHOT 半夜 PACK DROP 時，幫你排隊的小幫手，讓您可以一夜好眠~
 * 好操作的圖形介面
@@ -6,14 +6,14 @@ Goodnight
 * 省下半夜排隊的焦慮及時間
 * 讓您一夜好眠，這是最重要的!
 
-HOW IT WORK?
+HOW IT WORK? 🛠️
 -------------
 用滑鼠選好螢幕一個區域後，Goodnight.py 會每秒偵測一次該選取區域內的圖片是否改變，當區域內圖像發生改變時便撥放預設的音樂提醒使用者。
 
 也就是說我們可以在 PACK DROP 排隊的頁面中，選取排隊的那條 BAR 的尾端，當藍光條達到 BAR 尾端時，Goodnight.py 偵測到區域圖像改變時，便會幫放鈴聲提醒使用者起床，完成 PACK 的付款。
 
 
-LAZY BONES
+LAZY BONES _(:3」∠)_
 -------------
 如果你很懶或不會使用Python或沒耐心，你還是可以使用Goodnight，請直接進以下 google drive 連結，並下載 Goodnight 打包好的 exe 執行檔，點兩下即可開始使用。
 
@@ -27,14 +27,14 @@ LAZY BONES
 
 
 
-REQUIREMENTS
+REQUIREMENTS 📝
 -------------
 使用 pip 來安裝 Goodnight.py 所需的 Library
 ```cmd
 pip install -r requirements.txt
 ```
 
-HOW TO USE?
+HOW TO USE? 😋
 -------------
 請先安裝好 Python3
 
